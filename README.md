@@ -4,7 +4,7 @@
 
 ---
 
-## i worked with my partner munther and thaer 
+## i worked with my partner munther and thaer and hasan (hasan has not reseve any invetion in outlook ) 
 ## deploy link :
 
 **[AWS API](https://fhsq285xae.execute-api.us-east-1.amazonaws.com/people)** 
